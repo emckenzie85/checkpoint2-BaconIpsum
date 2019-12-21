@@ -1,0 +1,59 @@
+body  {
+  background-color: seagreen;
+}
+
+header  {
+background-color: transparent;
+  text-align: center;
+  font-family: 'Voltaire', sans-serif;
+  font-size: 1.5em;
+}
+
+h1  {
+  font-size: 5em;
+  font-family: 'Pattaya', sans-serif;
+  text-align: center;
+  margin-top: 3em;
+  margin-bottom: 3em;
+}
+
+footer  {
+  background-color: slateblue;
+}
+
+.wrapper {
+  display: grid;
+  padding: 3em;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 5em;
+}
+
+#Title1  {
+  border-top: solid black 3em;
+  background-color: darkslategrey;
+  padding: 1em;
+}
+
+#Title2  {
+  border-top: solid black 3em;
+  background-color: darkslategrey;
+  padding: 1em;
+}
+  
+#Title3  {
+  border-top: solid black 3em;
+  background-color: darkslategrey;
+  padding: 1em;
+}
+
+h2  {
+  font-family: 'Voltaire', sans-serif;
+  font-size: 2.2em;
+  text-align: center;
+}
+
+h3  {
+  font-family: 'Spirax', cursive;
+  font-size: 1.5em;
+  text-align: center;
+}

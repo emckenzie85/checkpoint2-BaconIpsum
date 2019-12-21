@@ -1,0 +1,17 @@
+@media (max-width: 576px)  {
+
+  #Title1  {
+    grid-row: 4;
+    width: 25em;
+  }
+
+  #Title2  {
+    grid-row: 5;
+
+  }
+
+  #Title3  {
+    grid-row:  6;
+  }
+  
+}
